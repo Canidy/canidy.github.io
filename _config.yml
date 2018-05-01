@@ -4,7 +4,8 @@ description: William is a minimal yet powerful Jekyll theme for your blogs and w
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/canidy.github.io/" # the subpath of your site, e.g. /blog/ or / for root
+# baseurl: "/canidy.github.io/" # the subpath of your site, e.g. /blog/ or / for root
+baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://github.com/canidy" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
@@ -41,8 +42,8 @@ lsi: False
 username: canidy #github username
 repo: canidy.github.io #github repository
 branch: master #branch
-# relative_source: ./hanuman/ #source directory
-# destination: ./hanuman-pages/ #destination directory
+relative_source: ./ #source directory
+destination: ../hanuman-pages/ #destination directory
 production_url:  https://canidy.github.io/
 source_url:  https://github.com/canidy/canidy.github.io #source repository url
 
