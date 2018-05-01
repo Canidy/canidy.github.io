@@ -6,7 +6,7 @@ logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 # baseurl: "/canidy.github.io/" # the subpath of your site, e.g. /blog/ or / for root
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://github.com/canidy/canidy.github.io/" # the base hostname & protocol for your site
+url: "https://canidy.github.io/" # the protocal & base hostname for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
