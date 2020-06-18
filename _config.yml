@@ -7,7 +7,7 @@ favicon: assets/images/favicon.png
 # baseurl: "/canidy.github.io/" # the subpath of your site, e.g. /blog/ or / for root
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://canidy.github.io/" # the protocal & base hostname for your site
-paginate:	5 # The number of posts to show per page on your homepage
+paginate:	2 # The number of posts to show per page on your homepage
 
 # Social
 facebook: bill
@@ -17,8 +17,10 @@ github:  canidy
 #Additional Pages
 about: about
 contact: contact
-privacy-policy: privacy-policy
+#privacy-policy: privacy-policy
+privacy-policy: LICENSE.txt
 
+name: Think in Bill
 
 permalink: /:title
 
@@ -34,6 +36,7 @@ kramdown:
 
 plugins:
   - jekyll-paginate
+  - jekyll-remote-theme
 
 
 # Settings for rake task
@@ -56,4 +59,4 @@ exclude:
   - "*.Rmd"
   - vendor
   - .travis.yml
-theme: minima
+theme: hanuman
