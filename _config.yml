@@ -56,4 +56,4 @@ exclude:
   - "*.Rmd"
   - vendor
   - .travis.yml
-theme: jekyll-theme-midnight
+theme: minima
