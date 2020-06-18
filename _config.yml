@@ -1,10 +1,9 @@
 # Site settings
 title: William
 description: William is a minimal yet powerful Jekyll theme for your blogs and websites.
-cover: assets/images/radhakrishna.jpg
-logo: assets/images/logo.png
-favicon: assets/images/favicon.png
-# baseurl: "/canidy.github.io/" # the subpath of your site, e.g. /blog/ or / for root
+cover: https://canidy.github.io/assets/images/radhakrishna.jpg
+logo: https://canidy.github.io/assets/images/logo.png
+favicon: https://canidy.github.io/assets/images/favicon.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://canidy.github.io/" # the protocal & base hostname for your site
 paginate:	2 # The number of posts to show per page on your homepage
