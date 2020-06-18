@@ -1,10 +1,10 @@
 ---
 layout: post
 cover: 'assets/images/tree.jpg'
-title: Sample
+title: 水浒传复制
 date: 2017-11-29 04:00:00
 tags: test
-author: krishna
+author: 小明同学
 ---
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
