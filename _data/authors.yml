@@ -1,16 +1,16 @@
 hanuman:
-  username: hanuman
-  name: HANUMAN
-  location: Ayodhya
-  url_full: https://hanumanchalisa.net
-  url: hanumanchalisa.net
-  bio: Jai Shri Ram!
+  username: bill
+  name: bill 
+  location: GZ China
+  url_full: https://canidy.github.io
+  url: www
+  bio: HK CC
   assets: assets/images/hanuman.png
 krishna:
-  username: krishna
-  name: KRISHNA
-  location: Vrindavan
-  url_full: https://shriradhakrishna.com
-  url: shriradhakrishna.com
-  bio: Radhe! Radhe!
+  username: 魏先生
+  name: 小明
+  location: 中国🇨🇳
+  url_full: www.baidu..com
+  url: www.qq.com
+  bio: shit!
   assets: assets/images/favicon.png
